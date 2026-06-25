@@ -1,4 +1,4 @@
-# Smart-Traffic-Light-Control-System-using-Proteus
+# Advanced Traffic Light Control System in Proteus featuring green-light blinking before signal transition for improved driver awareness
 Advanced Traffic Light Control System
 
 Overview:
