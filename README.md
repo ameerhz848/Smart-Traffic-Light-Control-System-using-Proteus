@@ -1,15 +1,18 @@
 # Smart-Traffic-Light-Control-System-using-Proteus
-Traffic Light Control System
-Overview
+Advanced Traffic Light Control System
 
-This project implements a traffic light control system in Proteus. The simulation follows the standard signal sequence:
+Overview:
 
-Red
-Yellow
-Green
-Features
-Automatic signal switching
-Real-time simulation in Proteus
-Based on Digital Logic Design concepts
-Tools Used
+This project simulates an advanced traffic light control system in Proteus. Unlike a conventional traffic signal, the system includes a warning mechanism where the green light blinks before changing to yellow. This feature provides drivers with advance notice that the signal is about to change, improving traffic flow awareness.
+
+Features: 
+
+1.Automatic traffic light sequencing
+2.Red → Yellow → Green operation
+3.Green light blinking before transition to yellow
+4.Real-time simulation in Proteus
+5.Digital Logic Design implementation
+
+
+Tool used :
 Proteus
