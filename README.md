@@ -8,10 +8,10 @@ This project simulates an advanced traffic light control system in Proteus. Unli
 Features: 
 
 1.Automatic traffic light sequencing
-2.Red → Yellow → Green operation
-3.Green light blinking before transition to yellow
-4.Real-time simulation in Proteus
-5.Digital Logic Design implementation
+  2.Red → Yellow → Green operation
+  3.Green light blinking before transition to yellow
+  4.Real-time simulation in Proteus
+  5.Digital Logic Design implementation
 
 
 Tool used :
