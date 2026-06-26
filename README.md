@@ -15,4 +15,4 @@ Features:
 
 
 Tool used :
-Proteus
+Proteus 8 professional
